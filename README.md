@@ -1,17 +1,13 @@
 # 🗓️ Event Planner React App
 
-An intuitive and responsive web application built with React to help individuals and organisations plan, manage, and track events easily — from creating event schedules to managing guests and task lists.
+An intuitive and responsive web application that will help individuals and organisations plan, manage, and track events easily, from creating event schedules to managing guests and task lists.
 
 ## 📌 Project Status
 
 ✅ Initial landing page created.  
 🔧 Future updates planned: full event planning functionality, guest management, calendar integration, and more.
 
----
 
-
-
----
 
 ## 🧰 Tech Stack
 
