@@ -1,11 +1,6 @@
 # 🗓️ Event Planner React App
 
-An intuitive and responsive web application built with React to help individuals and organizations plan, manage, and track events easily — from creating event schedules to managing guests and task lists.
-
-## 🚀 Live Demo
-
-<!-- Replace this link with your deployment link once hosted -->
-[View Live](#)
+An intuitive and responsive web application built with React to help individuals and organisations plan, manage, and track events easily — from creating event schedules to managing guests and task lists.
 
 ## 📌 Project Status
 
@@ -14,10 +9,7 @@ An intuitive and responsive web application built with React to help individuals
 
 ---
 
-## 📸 Screenshots
 
-<!-- Replace with actual screenshots when available -->
-Coming soon...
 
 ---
 
@@ -25,8 +17,7 @@ Coming soon...
 
 - **Frontend**: React, React Router (planned), Tailwind CSS / CSS Modules
 - **State Management**: useState, useEffect (Context API or Redux in future)
-- **Backend (Planned)**: Firebase or Django REST API
-- **Deployment**: GitHub Pages / Netlify / Vercel
+- **Backend (Planned)**: Django REST API
 
 ---
 
@@ -46,6 +37,6 @@ Coming soon...
 
 ### Clone the repository
 
-```bash
+```bash terminal
 git clone https://github.com/JolisNzamb21st/event-planner.git
 cd event-planner
